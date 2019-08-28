@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>BERKE TEKERGUL</title>
-	<atom:link href="https://tekergul.tk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tekergul.tk/</link>
-	<description>Bir başka WordPress sitesi</description>
+	<title>Genel &#8211; BERKE TEKERGUL</title>
+	<atom:link href="https://tekergul.tk/category/genel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tekergul.tk</link>
+	<description>kişisel blog ve tanıtım</description>
 	<lastBuildDate>Wed, 28 Aug 2019 23:19:55 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://tekergul.tk/wp-content/uploads/2019/08/cropped-63932-200-32x32.png</url>
+	<title>Genel &#8211; BERKE TEKERGUL</title>
+	<link>https://tekergul.tk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Merhaba dünya!</title>
 		<link>https://tekergul.tk/2019/08/29/merhaba-dunya/</link>
@@ -28,7 +36,7 @@
 				<category><![CDATA[Genel]]></category>
 
 		<guid isPermaLink="false">https://tekergul.tk/?p=1</guid>
-				<description><![CDATA[WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!]]></description>
+				<description><![CDATA[<div class="slide-text-bg2"><h3>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</h3></div><div class="flex-btn-div"><a href="https://tekergul.tk/2019/08/29/merhaba-dunya/" class="btn1 flex-btn">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[
 <p>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</p>
 ]]></content:encoded>

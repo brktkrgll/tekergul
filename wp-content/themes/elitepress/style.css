@@ -656,7 +656,7 @@ img { display: block; max-width: 100%; height: auto; }
 /*Sidebar Search*/
 #sidebar-menu-search { position: relative; display: block; }
 #sidebar-menu-search input {
-	background: url("./images/sidebar-search.png") no-repeat scroll 93% center #ffffff;
+	background: url("https://tekergul.tk/wp-content/themes/elitepress/images/sidebar-search.png") no-repeat scroll 93% center #ffffff;
     border: 1px solid #dfe8e8;
     color: #697076;
     border-radius: 0;
