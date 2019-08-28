@@ -1,0 +1,2 @@
+# tekergul
+tekergul comun denemeleri
